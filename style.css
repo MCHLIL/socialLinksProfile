@@ -1,0 +1,35 @@
+*, body {
+    margin: 0;
+}
+body {
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 8%);
+    
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#contents {
+    text-align: center;
+}
+header {
+
+}
+img {
+    width: 35%;
+    border-radius: 50%;;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+a {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+#location {
+    color: hsl(75, 94%, 57%);
+}
